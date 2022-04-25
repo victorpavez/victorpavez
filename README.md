@@ -1,8 +1,5 @@
 ### HELLO! Welcome to my professional profile 👋
 
-<!--
-**victorpavez/victorpavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 💻 I am a Pythonista at heart, my knowledge base is in this language.
 
